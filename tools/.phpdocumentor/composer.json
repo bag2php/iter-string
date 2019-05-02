@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpdocumentor/phpdocumentor": "^3.0.0-alpha.3"
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "optimize-autoloader": true,
+        "classmap-authoritative": true,
+        "discard-changes": true,
+        "preferred-install": "dist"
+    }
+}
